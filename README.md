@@ -2,7 +2,7 @@
 
 I am 19 y. o. student from Russia now graduating applied optics in ITMO University. 
 
-ArSysOp Junior Developer.
+Junior Developer at ArSysOp Ltd.
 
 You can see some of my open-source work results here below.
 
