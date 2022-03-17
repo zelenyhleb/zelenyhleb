@@ -1,6 +1,8 @@
 # Nikifor Fedorov
 
-I am 19 y. o. student from Russia now graduating applied optics in ITMO University. 
+![](https://komarev.com/ghpvc/?username=zelenyhleb&color=grey)
+
+I am 20 y. o. student from Russia now graduating applied optics in ITMO University. 
 
 Junior Developer at ArSysOp Ltd.
 
