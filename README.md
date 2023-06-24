@@ -1,9 +1,9 @@
 # Nikifor Fedorov
 
-I am 20 y. o. student from Russia now graduating applied optics at ITMO University, Saint-Petersburg.
+I am 21 y. o. student from Russia. My website is https://zelenyhleb.ru/
 
-## Skills
-- Java \[1.8; 11\]
+## Experience
+- Java
 - Eclipse Platform
 - EMF
 - Rust
