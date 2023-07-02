@@ -1,6 +1,6 @@
 # Nikifor Fedorov
 
-I am 21 y. o. student from Russia. My website is https://zelenyhleb.ru/
+21 y.o. My website is https://zelenyhleb.ru/
 
 ## Experience
 - Java
